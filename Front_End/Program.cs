@@ -16,7 +16,7 @@ namespace Front_End
 
             SD.AtlasApiBase = builder.Configuration["ServiceUrls:AtlasApi"];
 
-            builder.Services.AddScoped<IAtlasService, AtlasService>()
+            builder.Services.AddScoped<IAtlasService, AtlasService>();
 
             var app = builder.Build();
 

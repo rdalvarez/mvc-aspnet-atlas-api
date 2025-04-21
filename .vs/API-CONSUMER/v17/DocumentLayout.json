@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,32 +87,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T22:30:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Front_End\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Front_End\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-19T22:09:58.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AtlasEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
-              "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
-              "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T16:39:36.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AtlasDelete.cshtml",
               "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
               "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
@@ -116,12 +120,11 @@
               "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T16:39:17.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T16:39:17.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AtlasCreate.cshtml",
               "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
               "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
@@ -129,12 +132,11 @@
               "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T16:38:59.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T16:38:59.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AtlasIndex.cshtml",
               "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
               "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
@@ -142,12 +144,11 @@
               "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T16:38:09.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T16:38:09.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AtlasController.cs",
               "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Controllers\\AtlasController.cs",
               "RelativeDocumentMoniker": "Front_End\\Controllers\\AtlasController.cs",
@@ -155,12 +156,36 @@
               "RelativeToolTip": "Front_End\\Controllers\\AtlasController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowE4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T16:02:23.432Z",
+              "WhenOpened": "2025-04-19T16:02:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Program.cs",
+              "RelativeDocumentMoniker": "Front_End\\Program.cs",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Program.cs",
+              "RelativeToolTip": "Front_End\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:44:07.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "AtlasEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:39:36.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Front_End\\Controllers\\HomeController.cs",
@@ -168,21 +193,7 @@
               "RelativeToolTip": "Front_End\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAQwB8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T15:40:03.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Program.cs",
-              "RelativeDocumentMoniker": "Front_End\\Program.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Program.cs",
-              "RelativeToolTip": "Front_End\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T21:44:07.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T15:40:03.369Z"
             }
           ]
         }

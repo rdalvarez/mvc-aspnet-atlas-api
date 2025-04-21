@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\services\\atlasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\services\\atlasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\services\\iservices\\iatlasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\services\\iservices\\iatlasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\atlas\\atlascreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\atlas\\atlascreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\atlas\\atlasedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\atlas\\atlasedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\atlas\\atlasdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\atlas\\atlasdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\views\\atlas\\atlasindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\views\\atlas\\atlasindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\models\\atlasphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\models\\atlasphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\controllers\\atlascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\controllers\\atlascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4947C223-4CF2-4B68-A557-06AD41BD6F81}|PrimeraApiRest\\PrimeraApiRest.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\primeraapirest\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4947C223-4CF2-4B68-A557-06AD41BD6F81}|PrimeraApiRest\\PrimeraApiRest.csproj|solutionrelative:primeraapirest\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|c:\\users\\dalvarez\\desktop\\practica api\\api-consumer\\front_end\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D750CFF5-2AD5-446D-AD0A-15D58F7BF41D}|Front_End\\Front_End.csproj|solutionrelative:front_end\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,120 +86,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Front_End\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Front_End\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-18T21:15:23.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\appsettings.json",
-              "RelativeDocumentMoniker": "Front_End\\appsettings.json",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\appsettings.json",
-              "RelativeToolTip": "Front_End\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-18T21:15:13.945Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T22:30:04.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AtlasService.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Services\\AtlasService.cs",
-              "RelativeDocumentMoniker": "Front_End\\Services\\AtlasService.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Services\\AtlasService.cs",
-              "RelativeToolTip": "Front_End\\Services\\AtlasService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:47:44.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAtlasService.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Services\\IServices\\IAtlasService.cs",
-              "RelativeDocumentMoniker": "Front_End\\Services\\IServices\\IAtlasService.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Services\\IServices\\IAtlasService.cs",
-              "RelativeToolTip": "Front_End\\Services\\IServices\\IAtlasService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:43:57.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Models\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Front_End\\Models\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Models\\ResponseDto.cs",
-              "RelativeToolTip": "Front_End\\Models\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:41:26.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Front_End\\Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Utility\\SD.cs",
-              "RelativeToolTip": "Front_End\\Utility\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:39:34.704Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T22:09:58.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Models\\RequestDto.cs",
-              "RelativeDocumentMoniker": "Front_End\\Models\\RequestDto.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Models\\RequestDto.cs",
-              "RelativeToolTip": "Front_End\\Models\\RequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:39:00.062Z",
-              "EditorCaption": ""
+              "Title": "AtlasDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:39:17.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\PrimeraApiRest\\Models\\Dto\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "PrimeraApiRest\\Models\\Dto\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\PrimeraApiRest\\Models\\Dto\\ResponseDto.cs",
-              "RelativeToolTip": "PrimeraApiRest\\Models\\Dto\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:37:00.892Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "AtlasCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:38:59.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AtlasIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:38:09.23Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AtlasPhoto.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Models\\AtlasPhoto.cs",
-              "RelativeDocumentMoniker": "Front_End\\Models\\AtlasPhoto.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Models\\AtlasPhoto.cs",
-              "RelativeToolTip": "Front_End\\Models\\AtlasPhoto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "AtlasController.cs",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Controllers\\AtlasController.cs",
+              "RelativeDocumentMoniker": "Front_End\\Controllers\\AtlasController.cs",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Controllers\\AtlasController.cs",
+              "RelativeToolTip": "Front_End\\Controllers\\AtlasController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowE4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:15:28.096Z",
+              "WhenOpened": "2025-04-19T16:02:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Program.cs",
+              "RelativeDocumentMoniker": "Front_End\\Program.cs",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Program.cs",
+              "RelativeToolTip": "Front_End\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:44:07.479Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtlasEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "RelativeDocumentMoniker": "Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "RelativeToolTip": "Front_End\\Views\\Atlas\\AtlasEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:39:36.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Front_End\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\Practica API\\API-CONSUMER\\Front_End\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Front_End\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:40:03.369Z"
             }
           ]
         }
